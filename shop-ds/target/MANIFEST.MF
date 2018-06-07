@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: shop-ds
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.itunion
+Build-Jdk: 1.8.0_91
+Built-By: lin
+Created-By: IntelliJ IDEA
+Main-Class: ${start-class}
+
